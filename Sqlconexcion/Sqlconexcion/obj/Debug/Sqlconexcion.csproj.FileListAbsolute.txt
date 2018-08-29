@@ -1,0 +1,10 @@
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\bin\Debug\Sqlconexcion.exe.config
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\bin\Debug\Sqlconexcion.exe
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\bin\Debug\Sqlconexcion.pdb
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.csprojAssemblyReference.cache
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.Form1.resources
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.Properties.Resources.resources
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.csproj.GenerateResource.cache
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.csproj.CoreCompileInputs.cache
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.exe
+C:\Users\gatita y gato\source\repos\Sqlconexcion\Sqlconexcion\obj\Debug\Sqlconexcion.pdb
